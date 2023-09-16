@@ -1,0 +1,18 @@
+Data Preprocessing:
+1.Data Import:The assignment began by importing the dataset using the Pandas library, which provided a structured environment for data manipulation.
+
+2.Data Cleaning:We performed a series of data cleaning steps, including handling missing values, ensuring data types are appropriate, and dealing with any duplicates.
+
+3.Feature Engineering:To improve model performance, we engineered features where necessary, transforming and scaling data for better model compatibility.
+
+4.Handling Outliers:We identified and addressed outliers in the dataset to prevent them from adversely affecting our model's performance.
+
+5.Exploratory Data Analysis (EDA):EDA was conducted to understand data distributions, correlations, and patterns, providing valuable insights into feature importance.
+
+Model Selection and Training:
+
+1.Algorithm Selection:Several machine learning algorithms were considered, including Logistic Regression, Random Forest, and XGBoost. The choice to proceed with Random Forest and XGBoost was based on thorough experimentation and evaluation of model accuracy.
+
+2.Model Training:Both the Random Forest and XGBoost models were trained using appropriate training and validation datasets, ensuring robust performance.
+
+3.Hyperparameter Tuning:Hyperparameter tuning was performed to optimize model performance, enhancing predictive accuracy.
